@@ -36,8 +36,19 @@ The following information can be found in Section 5 of the MCU datasheet. There 
 | ------- | ------------- | ------------ | ---- |
 | Code | 0x0000 0000 | 0x1FFF FFFF | 512 Mb |
 | SRAM (aliased by bit-banding) | 0x2000 0000 | 0x2002 0000 | 128 Kb | 
-| Peripherals | 0x4000 0000 | 0x5FFF FFFF |
-| Flash | 0x0800 0000 | 0x0807 FFFF | 512 Kb | 
+| Peripherals | 0x4000 0000 | 0x5FFF FFFF | 512 Mb |
+| Flash | 0x0800 0000 | 0x0807 FFFF | 512 Kb |
+
+#### Peripherals
+
+The following peripherals will be used in this project, and can be found in Section 5 of the MCU datasheet.
+
+| Peripheral | Bus | Start Address |
+| ------- | --- | ------------- |
+| USART1 | APB2 | 0x4001 1000 |
+| USART6 | APB2 | 0x4001 1400 |
+| GPIOA | AHB1 | 0x4002 0000 |
+| GPIOB | AHB1 | 0x4002 0400 |
 
 ## License
 
