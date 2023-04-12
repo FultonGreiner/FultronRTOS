@@ -26,7 +26,7 @@ FultronRTOS has several important features that make it a powerful choice for ru
 
 ### 1. Datasheet Review
 
-After reviewing the MCU datasheet, I was able to locate the following necessary information:
+The datasheet contains information necessary for much of the project. The information gathered will be used for everything from controlling the clock frequency, to creating the IVT and its corresponding interrupt handlers.
 
 #### Memory Map
 
