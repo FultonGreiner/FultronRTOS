@@ -14,7 +14,7 @@ FultronRTOS has several important features that make it a powerful choice for ru
 
 - **Interrupt Handlers**: FultronRTOS includes a set of interrupt handler functions that are used to handle various hardware interrupts that occur on the MCU. These functions ensure that real-time applications can run smoothly without any interruptions.
 
-- **Scheduler**: The scheduler is the heart of FultronRTOS. It is responsible for allocating CPU time to each task, ensuring that real-time applications are executed in a timely manner. The scheduler is designed to be highly efficient and flexible, allowing for a wide range of real-time applications to be run on the MCU.
+- **Scheduler** [IN PROGRESS]: The scheduler is responsible for allocating CPU time to each task, ensuring that real-time applications are executed in a timely manner. The scheduler is designed to be efficient and flexible, allowing for a wide range of real-time applications to be run on the MCU.
 
 ## License
 
