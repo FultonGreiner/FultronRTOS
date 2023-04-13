@@ -52,4 +52,4 @@ The following peripherals will be used in this project, and can be found in Sect
 
 ## License
 
-FultronRTOS is released under the MIT License. See LICENSE for more information.
+FultronRTOS is released under the GNU GENERAL PUBLIC LICENSE. See LICENSE for more information.
