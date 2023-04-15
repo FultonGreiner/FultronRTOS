@@ -20,9 +20,17 @@ FultronRTOS has several important features that make it a powerful choice for ru
 
 ### 0. Board Selection and Toolchain Setup
 
+#### Selected Board
 | Board | MCU Datasheet | Board Datasheet |
 | ----- | ------------- | --------------- |
-| 32F411EDISCOVERY | [link](https://www.digikey.ch/htmldatasheets/production/1776125/0/0/1/stm32f411xc-stm32f411xe.html#pf35) | [link](https://www.st.com/resource/en/data_brief/32f411ediscovery.pdf) |
+| [32F411EDISCOVERY](https://www.st.com/en/evaluation-tools/32f411ediscovery.html) | [STM32F411xC STM32F411xE](https://www.digikey.ch/htmldatasheets/production/1776125/0/0/1/stm32f411xc-stm32f411xe.html) | [Discovery kit with STM32F411VE MCU](https://www.st.com/resource/en/data_brief/32f411ediscovery.pdf) |
+
+#### Required Tools
+| Tool | Installation Link | Purpose |
+| ---- | ----------------- | ------- |
+| GNU Arm Embedded | [link](https://developer.arm.com/downloads/-/gnu-rm) | compilation and linking |
+| GNU Make | [link](https://www.gnu.org/software/make/) | build automation |
+| STLINK Tools | [link](https://github.com/stlink-org/stlink) | debug and flashing |
 
 ### 1. Datasheet Review
 
