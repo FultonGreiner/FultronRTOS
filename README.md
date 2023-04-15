@@ -21,7 +21,7 @@ FultronRTOS has several important features that make it a powerful choice for ru
 ### 0. Board Selection and Toolchain Setup
 
 #### Selected Board
-| Board | MCU Datasheet | Board Datasheet |
+| Board | MCU Datasheet | Board Data Brief |
 | ----- | ------------- | --------------- |
 | [32F411EDISCOVERY](https://www.st.com/en/evaluation-tools/32f411ediscovery.html) | [STM32F411xC STM32F411xE](https://www.digikey.ch/htmldatasheets/production/1776125/0/0/1/stm32f411xc-stm32f411xe.html) | [Discovery kit with STM32F411VE MCU](https://www.st.com/resource/en/data_brief/32f411ediscovery.pdf) |
 
